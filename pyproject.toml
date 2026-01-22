@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "iglab"
+version = "0.1.0"
+description = "Impulse Geometry experimental laboratory"
+dependencies = ["numpy"]
+
+[tool.setuptools]
+packages = ["iglab"]

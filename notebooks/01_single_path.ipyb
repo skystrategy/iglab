@@ -1,0 +1,7 @@
+# Single-Path Impulse Geometry
+
+This notebook implements the single-path impulse-driven trajectory
+described in Section X of the Impulse Geometry foundational paper.
+
+We construct a single evolving state driven by a local impulse field,
+integrate it forward, and examine the resulting curve.
